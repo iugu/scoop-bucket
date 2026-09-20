@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/iugu/cli/releases/download/v0.1.0/iugu_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/iugu/cli/releases/download/v0.1.1/iugu_0.1.1_windows_amd64.zip",
             "bin": [
                 "iugu.exe"
             ],
-            "hash": "7dc9227c3335a6e796ac89426888085b04aec2a0c4600df8445fc67826ed67ef"
+            "hash": "acdac8764a52107369dc2283a1f7529eae0404a1d76c908f1dad4f0af8915d3e"
         },
         "arm64": {
-            "url": "https://github.com/iugu/cli/releases/download/v0.1.0/iugu_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/iugu/cli/releases/download/v0.1.1/iugu_0.1.1_windows_arm64.zip",
             "bin": [
                 "iugu.exe"
             ],
-            "hash": "ddb16a1fdbabf2998c8d1bbd8518f329a4e7c3ec48dcd1211a48a66062efaede"
+            "hash": "bf91735af6aed3f8923e7ea352bd84a787bccafa0a0d0d4067728a81108b979c"
         }
     },
     "homepage": "https://github.com/iugu/cli",
